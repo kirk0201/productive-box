@@ -13,5 +13,5 @@ jobs:
         uses: kirk0201/productive-box@master
         env:
           GH_TOKEN: ${{ secrets.GH_TOKEN }}
-          GIST_ID: 780ff86bbbf0d75d5208c8e7fcbcd36a730ffc66
+          GIST_ID: 7aaf1e1f3d177dd1feeae587f6f6aed1a463e016
           TIMEZONE: Asia/Seoul
